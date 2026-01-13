@@ -1,4 +1,4 @@
-# Shakespeare Character-Level Language Models (PyTorch)
+# Shakespeare Character-Level Language Model Training (PyTorch)
 
 This codebase contains a set of character-level language models trained on Shakespeare-like text, progressing from a simple Bigram model to a Transformer with multi-head self-attention. It also includes educational scripts that illustrate attention mechanics and small utilities for device introspection.
 
